@@ -96,3 +96,5 @@ Node syntax checks and the two timing tests passed. Full MongoDB-backed HTTP
 integration and browser rendering were not run in the authoring environment
 because a MongoDB server was unavailable. Run the setup and peer-alert scenario
 above against your own MongoDB instance before using the app.
+# HerShield
+# HerShield
